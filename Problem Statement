@@ -1,0 +1,8 @@
+EcoFinds sustainable second hand market place!!!!!!!!
+Develop a foundational version of EcoFinds, focusing on core user authentication and
+product listing functionalities. Teams must deliver a functional prototype, accessible via
+both mobile and desktop interfaces, that allows users to register and log in, create and
+manage basic product listings (including title, description, category, price, and at least
+one image placeholder), and browse these listings with basic filtering and search
+capabilities. The system must employ efficient data structures for managing user and
+product data, ensuring a stable and responsive user experience.
